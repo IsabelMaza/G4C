@@ -1,0 +1,124 @@
+
+.header{
+    border: none;
+    box-shadow: none;
+    background-color:#4E03B6;
+ padding: none;
+ margin-top: none;
+}
+.header nav div{
+    background-color:#4E03B6;
+    padding-top: 0;
+    margin: 0;
+   
+}
+
+.g4c a{
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+}
+.main {
+    background-color:#3E1A72;
+}
+.inicio a{
+   align-items: end;
+   text-decoration: none;
+   color:white;
+   font-size: 14px;
+}
+.plan{
+    color: white;
+}
+.Planes{
+    width: 280px;
+    margin-left: 15px;
+  
+
+}
+.planSus{
+    background-color:#55259D;
+    border-radius: 20px;
+    height: 320px;
+    border-color: #3D1359;
+    
+}
+.planSus2{
+    background-color:#3A1865;
+    border-radius: 20px;
+    height: 320px;
+    border-color: #3D1359;
+}
+.planSus h5{
+    color: white;
+    text-align: center;
+   
+}
+.planSus p{
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+}
+.planSus2 p{
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+}
+.planSus2 h5{
+    color: white;
+    text-align: center;
+  
+}
+.boton{
+    margin-top: 40px;
+   
+}
+.banner{
+    background-color:#3A1865;
+
+
+}
+.banner p{
+    color: white;
+   font-size: 16ppx;
+   padding: 30px;
+  
+  
+}
+.banner h5{
+    color: white;
+    font-size: 36px;
+}
+.Pelicula{
+    justify-content: center;
+    margin-left: 40px;
+   height: 600px;
+   width: 1300px;
+   background-color:#3A1865;
+   border-color:#3D1359;
+}
+.Pelicula img{
+    height: 530px;
+    margin: 30px;
+}
+
+
+.botonPregunta{
+    margin: 30px;
+    margin-right: 20px;
+
+}
+.preguntasF{
+    margin-left: 150px;
+}
+.footer{
+    height: 100px;
+    background-color: #381863;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 8px;
+}
+.iconos a{
+    height: 30px;
+}
