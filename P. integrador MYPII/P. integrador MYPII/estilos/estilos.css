@@ -1,0 +1,164 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@700&family=Heebo:wght@800&family=Hind&family=Montserrat&family=Mooli&family=Outfit:wght@200&family=Tajawal:wght@300&display=swap');
+
+.header{
+    border: none;
+    box-shadow: none;
+    background-color:#4E03B6;
+ padding: none;
+ margin-top: none;
+}
+.header nav div{
+    background-color:#4E03B6;
+    padding-top: 0;
+    margin: 0;
+   
+}
+.titulo{
+    color:white;
+    font-size: 30px;
+    font-family: 'Mooli', sans-serif;
+    margin: 10px;
+}
+.g4c a:hover{
+    color: black;
+    
+}
+.g4c a{
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+}
+.main {
+    background-color:#3E1A72;
+}
+.inicio a{
+   align-items: end;
+   text-decoration: none;
+   color:white;
+   font-size: 14px;
+}
+.plan{
+    color: white;
+    font-family:  'Montserrat', sans-serif;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.Planes{
+    width: 280px;
+    margin-left: 15px;
+  margin-bottom: 50px;
+  background-color:#3A1865;
+  border-radius:20px;
+
+}
+.Planes:hover{
+    background-color:#3A1865;
+    border-radius:20px;
+}
+.planSus{
+    background-color:#55259D;
+    border-radius: 20px;
+    height: 320px;
+    border-color: #3D1359;
+    
+    
+}
+.planSus2{
+    background-color:#3A1865;
+    border-radius: 20px;
+    height: 320px;
+    border-color: #3D1359;
+}
+.planSus h5{
+    color: white;
+    text-align: center;
+    font-family:  'Montserrat', sans-serif;
+}
+.planSus p{
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+}
+.planSus2 p{
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+}
+.planSus2 h5{
+    color: white;
+    text-align: center;
+  
+}
+.boton{
+    margin-top: 40px;
+}
+.Incluido{
+    text-align: center;
+    color: white;
+}
+.lista{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   color: white;
+margin: 20px;
+}
+.banner{
+    background-color:#3A1865;
+
+
+}
+.banner p{
+    color: white;
+   font-size: 16ppx;
+   padding: 30px;
+   font-family:  'Montserrat', sans-serif;
+  
+}
+.banner h5{
+    color: white;
+    font-size: 36px;
+    font-family:  'Montserrat', sans-serif;
+}
+.Pelicula{
+    justify-content: center;
+    margin-left: 30px;
+   height: 600px;
+   width: 1300px;
+   background-color:#3A1865;
+   border-color:#3D1359;
+}
+.Pelicula img{
+    height: 530px;
+    margin: 30px;
+}
+
+.botonPregunta{
+    margin: 30px;
+    margin-right: 20px;
+
+}
+.preguntasF{
+    margin-left: 150px;
+}
+footer{
+    height: 100px;
+    background-color: #381863;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.iconos a{
+  height: 20px;
+  width: 20px;
+}
+.card{
+    
+    background-color:#4E03B6;
+}
+button{
+    color: #411972;
+}
