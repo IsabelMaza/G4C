@@ -1,4 +1,6 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@700&family=Heebo:wght@800&family=Hind&family=Montserrat&family=Mooli&family=Outfit:wght@200&family=Tajawal:wght@300&display=swap');
+
 .header{
     border: none;
     box-shadow: none;
@@ -12,7 +14,16 @@
     margin: 0;
    
 }
-
+.titulo{
+    color:white;
+    font-size: 30px;
+    font-family: 'Mooli', sans-serif;
+    margin: 5px;
+}
+.g4c a:hover{
+    color: black;
+    
+}
 .g4c a{
     font-size: 30px;
     color: white;
@@ -29,18 +40,37 @@
 }
 .plan{
     color: white;
+    font-family:  'Montserrat', sans-serif;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 30px;
 }
-.Planes{
-    width: 280px;
-    margin-left: 15px;
-  
+.card{background:none;
+    background-color:#3A1865;
+    background-color:#3A1865;
+    border-radius:20px;
+    border:none;
+    background: none;}
 
+.Planes{
+  
+  background-color:#3A1865;
+  border-radius:20px;
+ margin-left: 50px;
+  width: 250px;
+  
+}
+.Planes:hover{
+    background-color:#3E1A72;
+    border-radius:20px;
+  
 }
 .planSus{
     background-color:#55259D;
     border-radius: 20px;
     height: 320px;
     border-color: #3D1359;
+    
     
 }
 .planSus2{
@@ -52,7 +82,7 @@
 .planSus h5{
     color: white;
     text-align: center;
-   
+    font-family:  'Montserrat', sans-serif;
 }
 .planSus p{
     color: white;
@@ -71,7 +101,23 @@
 }
 .boton{
     margin-top: 40px;
-   
+    text-decoration: none;
+}
+.boton:hover{
+    color: black;
+}
+.Incluido{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+.lista{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   color: white;
+margin: 20px;
 }
 .banner{
     background-color:#3A1865;
@@ -82,43 +128,58 @@
     color: white;
    font-size: 16ppx;
    padding: 30px;
-  
+   font-family:  'Montserrat', sans-serif;
   
 }
 .banner h5{
     color: white;
     font-size: 36px;
+    font-family:  'Montserrat', sans-serif;
 }
 .Pelicula{
+    display: flex;
     justify-content: center;
-    margin-left: 40px;
+    margin-left: 70px;
    height: 600px;
    width: 1300px;
    background-color:#3A1865;
    border-color:#3D1359;
+   border-radius:20px;
 }
 .Pelicula img{
     height: 530px;
     margin: 30px;
 }
 
-
 .botonPregunta{
     margin: 30px;
     margin-right: 20px;
 
 }
+.botonPregunta:hover{
+    background-color: #3A1865;
+    color: black;
+}
 .preguntasF{
     margin-left: 150px;
 }
-.footer{
-    height: 100px;
+footer{
+    height: 120px;
     background-color: #381863;
     padding: 10px;
     text-align: center;
     color: white;
-    font-size: 8px;
+    font-size: 12px;
 }
-.iconos a{
-    height: 30px;
+.iconos{
+width: 100%;
+    text-align: center;
+}
+
+button{
+    color: #411972;
+}
+.PreguntaCuerpo{
+    background-color:aliceblue;
+    border-radius: 10px
 }
