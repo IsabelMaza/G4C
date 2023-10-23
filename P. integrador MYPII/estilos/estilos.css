@@ -6,7 +6,13 @@
     box-shadow: none;
     background-color:#4E03B6;
  padding: none;
- margin-top: none;
+ margin-top: none; 
+ color: #fff; 
+ position: fixed; 
+ width: 100%;
+ top: 0; 
+ left: 0; 
+ z-index: 999;
 }
 .header nav div{
     background-color:#4E03B6;
@@ -108,6 +114,7 @@
 .boton:hover{
     color: black;
 }
+
 .Incluido{
     text-align: center;
     color: white;
@@ -209,6 +216,15 @@ button{
     padding: 10px;
    
 }
+
+.tituloIniciohome{
+    color:white;
+    font-size: 32px;
+    font-family: 'Mooli', sans-serif;
+    align-content: center;
+    margin-left: 360px;
+    padding-top: 5px;
+}
 .mainInicio {
     background-color:#3E1A72;
     height:600px;
@@ -285,9 +301,13 @@ color: #3D1359;
     display: flex;
     flex-direction: column;
     justify-content:left;
+   
   }
   .container div{
     color: white;
+  }
+  .preguntas{
+    margin: 60px;
   }
   .botonpregunta{
     display: flex;
@@ -306,6 +326,20 @@ color: #3D1359;
  
     border-radius:7px;
 }
+
+
+.headerHome{
+    background-color: rgba(66, 66, 66, 0.593); 
+color: #fff; 
+
+position: fixed; 
+width: 100%;
+top: 0; 
+left: 0; 
+z-index: 999;
+}
+
+
 .Bannerpelis p{
    font-size: 18px;
 }
@@ -314,10 +348,11 @@ background-color: #381863;
 }
 .mainhome {
     background-color:#3E1A72;
-    height: 1200px;
+ 
 }
 .Seleccion{
     background-color:#5925a1;
+    margin: 20px;
 }
 .Seleccion p{
     font-size: 18px;
@@ -326,3 +361,16 @@ background-color: #381863;
     color: white;
     font-family:  'Montserrat', sans-serif;
 }
+.textoinicio:hover{
+color: black;
+}
+.collapse{
+    border-color: #411972;
+}
+
+
+.cartas{
+    height: 900px;
+   background: linear-gradient(to bottom, #3E1A72, #7c1ecf);;
+}
+
