@@ -20,6 +20,8 @@
     font-family: 'Mooli', sans-serif;
     margin: 5px;
 }
+
+
 .g4c a:hover{
     color: black;
     
@@ -139,7 +141,7 @@ margin: 20px;
 .Pelicula{
     display: flex;
     justify-content: center;
-    margin-left: 70px;
+    margin-left: 30px;
    height: 600px;
    width: 1300px;
    background-color:#3A1865;
@@ -182,4 +184,145 @@ button{
 .PreguntaCuerpo{
     background-color:aliceblue;
     border-radius: 10px
+}
+
+/*Pagina registrarse*/
+ .headerInicio{
+    border: none;
+    box-shadow: none;
+    background-color:#4E03B6;
+ padding: none;
+ margin-top: none;
+ }
+ .headerInicio nav div{
+    background-color:#4E03B6;
+    padding-top: 0;
+    margin: 0;
+   
+}
+.tituloInicio{
+    color:white;
+    font-size: 30px;
+    font-family: 'Mooli', sans-serif;
+    align-content: center;
+    margin-left: 550px;
+    padding: 10px;
+   
+}
+.mainInicio {
+    background-color:#3E1A72;
+    height:600px;
+}
+.Registrarse{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+.planInicio{
+    color: white;
+    font-family:  'Montserrat', sans-serif;
+padding-top:40px ;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.Etiquetas{
+    padding: 15px;
+    width: 400px;
+}
+
+.Etiquetas:hover{
+    color: black;
+}
+.Etiquetas input:hover{
+color: #3D1359;
+}
+/* @media (max-width: 768px) {
+    .carousel-inner .carousel-item > div {
+      display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+      display: block;
+    }
+  }
+  
+  .carousel-inner .carousel-item.active,
+  .carousel-inner .carousel-item-start,
+  .carousel-inner .carousel-item-next,
+  .carousel-inner .carousel-item-prev {
+    display: flex;
+    //transition-duration: 10s;
+  }
+  
+  /* display 4 */
+ /* @media (min-width: 768px) {
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next,
+    .carousel-item-next:not(.carousel-item-start) {
+      transform: translateX(25%) !important;
+    }
+  
+    .carousel-inner .carousel-item-left.active,
+    .carousel-item-prev:not(.carousel-item-end),
+    .active.carousel-item-start,
+    .carousel-item-prev:not(.carousel-item-end) {
+      transform: translateX(-25%) !important;
+    }
+  
+    .carousel-item-next.carousel-item-start, .active.carousel-item-end {
+      transform: translateX(0) !important;
+    }
+  
+    .carousel-inner .carousel-item-prev,
+    .carousel-item-prev:not(.carousel-item-end) {
+      transform: translateX(-25%) !important;
+    }
+  }
+  */
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+  }
+  .container div{
+    color: white;
+  }
+  .botonpregunta{
+    display: flex;
+    justify-content:left;
+    width: auto;
+    margin: 30px;
+    background-color: #381863;
+  }
+
+  .mainpreguntas {
+    background-color:#3E1A72;
+    height: 800px;
+}
+.Bannerpelis{
+    background-color: rgba(128, 128, 128, 0.3);
+ 
+    border-radius:7px;
+}
+.Bannerpelis p{
+   font-size: 18px;
+}
+.botonhome:hover{
+background-color: #381863;
+}
+.mainhome {
+    background-color:#3E1A72;
+    height: 1200px;
+}
+.Seleccion{
+    background-color:#5925a1;
+}
+.Seleccion p{
+    font-size: 18px;
+    text-align: left;
+    margin: 10px;
+    color: white;
+    font-family:  'Montserrat', sans-serif;
 }

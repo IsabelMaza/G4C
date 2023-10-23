@@ -1,0 +1,84 @@
+     <div class="card-group row-cols-1 row-cols-md-3 g-4 preguntasF">
+   
+        <div class="col">
+          <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+            <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;">¿Tiene algun costo extra ver G4C desde mi celular o tablet?</div>
+            <div class="card-body PreguntaCuerpo">
+              <p class="card-text">Con el plan estándar puedes disfrutar todo el catálogo en todas tus pantallas, incluyendo smartphone y tableta.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+            <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;" >¿Qué es G4C?</div>
+            <div class="card-body PreguntaCuerpo">
+              <p class="card-text">Go for Classics es la nueva plataforma de streaming que reúne todos los contenidos con más éxitos de taquilla, series generadoras de obsesión y exclusivos contenidos para los amantes de la buena producción cinematográfica.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+            <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;">¿G4C tiene control para menores de edad?</div>
+            <div class="card-body PreguntaCuerpo">
+              <p class="card-text">Si, puedes crear un perfil Infantil para cada uno de tus niños, con controles parentales que limitan el contenido que se puede ver.</p>
+            </div>
+          </div>
+        </div>
+        </div>
+
+        <div class="card-group row-cols-1 row-cols-md-3 g-4 preguntasF">
+   
+            <div class="col">
+              <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+                <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;">¿G4C Max tiene prueba gratis?</div>
+                <div class="card-body PreguntaCuerpo">
+                  <p class="card-text">G4C, al contrario de la mayoría de las plataformas de streaming, ofrece una prueba gratuita a los nuevos suscriptores.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+                <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;" >¿Donde puedo ver G4C en Argentina?</div>
+                <div class="card-body PreguntaCuerpo">
+                  <p class="card-text">Para obtener una lista de proveedores de TV, Internet y telefonía que ofrece G4C, puedes hacer lo siguiente:
+                    En la esquina superior derecha de esta pagina, selecciona INGRESA. Selecciona Iniciar sesión con un proveedor. Selecciona Ver todos los proveedores. Aquí podrás encontrar una lista de todos los proveedores que ofrece G4C en tu región</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+                <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;">¿G4C tiene control para menores de edad?</div>
+                <div class="card-body PreguntaCuerpo">
+                  <p class="card-text">Si, puedes crear un perfil Infantil para cada uno de tus niños, con controles parentales que limitan el contenido que se puede ver.</p>
+                </div>
+              </div>
+            </div>
+            </div>
+
+            <div class="card-group row-cols-1 row-cols-md-3 g-4 preguntasF">
+   
+                <div class="col">
+                  <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+                    <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;">¿Tiene algun costo extra ver G4C desde mi celular o tablet?</div>
+                    <div class="card-body PreguntaCuerpo">
+                      <p class="card-text">Con el plan estándar puedes disfrutar todo el catálogo en todas tus pantallas, incluyendo smartphone y tableta.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+                    <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;" >¿Qué es G4C?</div>
+                    <div class="card-body PreguntaCuerpo">
+                      <p class="card-text">Go for Classics es la nueva plataforma de streaming que reúne todos los contenidos con más éxitos de taquilla, series generadoras de obsesión y exclusivos contenidos para los amantes de la buena producción cinematográfica.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card text-bg-dark mb-3" style="max-width: 18rem;">
+                    <div class="card-header PreguntaCabeza" style=" color: white; border-radius: 10px;">¿G4C tiene control para menores de edad?</div>
+                    <div class="card-body PreguntaCuerpo">
+                      <p class="card-text">Si, puedes crear un perfil Infantil para cada uno de tus niños, con controles parentales que limitan el contenido que se puede ver.</p>
+                    </div>
+                  </div>
+                </div>
+                </div>
